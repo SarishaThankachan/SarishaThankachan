@@ -1,8 +1,10 @@
-##👋 Hello World, I’m @SarishaThankachan
-#- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hello World,</h1>
+
+- I’m interested in `web development`
+
+- `Currently upgrading skills`
+
+
 
 <!---
 SarishaThankachan/SarishaThankachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
